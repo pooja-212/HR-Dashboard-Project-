@@ -15,4 +15,4 @@ Data Modeling
 Data Visualization
 Business Intelligence (BI)
 
-Project Screenshot : 
+Project Screenshot : https://github.com/pooja-212/HR-Dashboard-Project-/blob/main/hr%20dashboard.jpg
